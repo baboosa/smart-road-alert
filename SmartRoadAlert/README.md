@@ -4,6 +4,12 @@ Este projeto consiste em um protótipo de sistema embarcado baseado em Internet 
 
 A solução está diretamente alinhada ao **Objetivo de Desenvolvimento Sustentável (ODS) 11** da ONU (Cidades e Comunidades Sustentáveis), promovendo a eficiência operacional e a gestão pública orientada a dados (*data-driven*).
 
+## 🔌 Diagrama do Circuito
+
+![Diagrama do circuito](assets/circuit.png)
+
+---
+
 ## 📊 Arquitetura do Sistema
 
 O projeto foi desenvolvido utilizando os princípios de **Programação Orientada a Objetos (POO)** na linguagem C++ (framework Arduino), garantindo alta coesão, baixo acoplamento e separação estrita de responsabilidades:
